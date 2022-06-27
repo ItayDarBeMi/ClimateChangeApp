@@ -37,16 +37,16 @@ App Views:
 
 * World Map Climate Animated Changes
 
-![img.png](img.png)
+![img.png](imgs/img.png)
 
 * Israel Climate in 2013
 
-![img_4.png](img_4.png)
+![img_4.png](imgs/img_4.png)
 
 * The average change per country (%)
 
-![img_2.png](img_2.png)
+![img_2.png](imgs/img_2.png)
 
 *5 Coldest countries in Europe
 
-![img_5.png](img_5.png)
+![img_5.png](imgs/img_5.png)
